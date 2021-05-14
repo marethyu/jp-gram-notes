@@ -220,6 +220,12 @@ Vてやる
 2. Someone does something undesirable to someone else when he/she knows his/her action will cause hardship or trouble. See https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%82%84%E3%82%8B2.html
 3. To (proactively) perform an action so as to prove one's ability to others.
 
+かける/かかる meanings:
+
+The basic meaning is something among "to hang", "to hook", "to put", and "sprinkle." It is often used metaphorically.
+
+連用形+かける has two meanings:「to be partway doing ...; to begin (but not complete) ...; to be about to (literally: hang on to action)」and「indicates (verb) is being directed to (someone) (literally: hang action on someone)」
+
 (つまり)～～ってことか means "(So,) does it mean...?"
 **つまり is not necessary and is optional
 
@@ -372,3 +378,83 @@ noisy, annoying, shut the fuck up
 はい - yes, that's correct (polite)
 いいえ - no; nah; well; er; why
 う-ん - hmm
+
+Japanese contractions and slangs
+================================
+
+causative verb conjugation
+
+ichidan: + さす
+godan: (あ-stem) + す OR (あ-stem) + させる
+
+食べる -> 食べさせる -> 食べさす
+見る -> 見らせる -> 見らさせる or 見らす
+
+causative passive conjugation
+
+(あ-stem) + せられる -> (あ-stem) + させる
+
+てしまう -> ちまう -> ちゃう and でしまう -> じまう -> じゃう
+
+って is a colloquial version of と, can be short for という (という -> っていう -> って)
+
+In Tokyo metropolitan dialect, ……では is contracted as ……じゃ and ないか in ……じゃないか can be omitted (usually denoted with a ellipsis).
+「好きなんじゃ……」って思うかな = 好きなのではないかと思うかな
+
+soft か = かい - https://japanese.stackexchange.com/questions/15723/sentence-question-ending-%e3%81%8b%e3%81%84-how-is-it-different-from-just-%e3%81%8b
+い can make question softer
+
+だい is boyish final particle for asking questions (can be used for emphasis)
+
+[V連用形]なさい can be contracted to [V連用形]な
+
+XXX方がいい can be shortened to XXX方が
+
+許さゃなへぞ -> 許さねえぞ
+
+ありゃしねえ -> ありゃしない -> ありはしない -> あらない＋は
+
+some important slurs
+
+/ae/ > /ee/
+e.g. お前 > おめえ
+/oi/ > /ee/
+e.g. すごい > すげえ
+/ui/ > /ii/
+e.g. さむい > さみい, まずい > まじい
+
+けぇっちまえ -> 帰っちまえ
+
+/r/ + vowel before a /n/ consonant can turn into ん in casual speech. (Do not confuse this ん as explanatory-の.)
+
+e.g. わからない。 → わかんない。しゃべりなさい。 → しゃべんなさい。見てるの。　→　見てんの。
+
+殺してやりなさい -> 殺してやんなさい
+
+～ない -> ん e.g. 知らない -> 知らん (can be applied anywhere in the sentence. eg. 俺にできんこと and させないでください -> させんでください)
+
+ては -> ちゃ
+
+では -> じゃ
+
+なければ -> なけりゃ -> なきゃ
+
+れば or れは or りは -> りゃ
+
+でも	-> だって
+
+という -> っていう -> って
+
+More references:
+https://www.japanesewithanime.com/2019/07/contractions.html
+https://en.wikipedia.org/wiki/Contraction_(grammar)#Japanese
+https://en.wikipedia.org/wiki/Japanese_grammar#Euphonic_changes_(%E9%9F%B3%E4%BE%BF_onbin)
+http://www.muse.dti.ne.jp/~squat/tokyoben.htm
+http://www.muse.dti.ne.jp/~squat/
+https://community.wanikani.com/t/quick-contraction-reference/33461
+https://en.wiktionary.org/wiki/Category:Japanese_contractions
+https://japanese.stackexchange.com/questions/30995/%E3%81%A6%E3%81%8A%E3%81%8F-%E2%86%92-%E3%81%A8%E3%81%8F-in-other-contexts-similar-2-kana-to-1-kana-shortcuts
+https://www.sljfaq.org/afaq/colloquial-contractions.html
+https://i.stack.imgur.com/ffAw7.png
+https://japanese.stackexchange.com/questions/61958/why-is-the-%e3%81%a6-form-being-used-before-%e3%82%93
+https://japanese.stackexchange.com/questions/30995/%e3%81%a6%e3%81%8a%e3%81%8f-%e2%86%92-%e3%81%a8%e3%81%8f-in-other-contexts-similar-2-kana-to-1-kana-shortcuts
