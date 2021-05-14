@@ -1,0 +1,374 @@
+日本語文法ノート
+
+「Vていく」と「Vてくる」の意味
+
+1. Describes leaving somewhere for temporary time for trivial purpose (then come back). No Vていく form of this pattern.
+2. Do something somewhere and then move on. Both Vていく and Vてくる are used
+3. Vてくる describes situation continually changing from past to present (speaker's point of view). Vていく is for action that will continue to change from present (speaker's point of view) to future. (Used with verbs that express change.)
+4. Vてきた is present perfect tense; Vていく is for continuation from present to future. Speaker's focus is on present or specified time. Often used with 今まで and これから. (Describes temporal continuation.)
+5. Means of movement, situations, and actions occurring in tandem during motion. Both Vていく and Vてくる are used
+6. For leaving or approaching speaker or topic by giving directionality to verbs of movement or verbs that have meaning of movement. Verbs of movement include 歩く, 走る, 通る, 飛ぶ, and 流れる. These words have no intrinsic directionality, so Vてくる or Vていくare appended for directionality.
+7. For leaving or approaching speaker for verb pairs of motion. Use of ていく or てくる depends on speaker's point of view. Verb pairs of motion include 入る, 出る, 上がる, 下りる, のぼる, くだる, 乗る, 降りる, etc.
+8. Things or sensations (odors, voices, etc.) approach speaker. Only てくる used.
+9. Beginning or emergence of change. Used with natural occurrences regardless of speaker's volition. Often used for psychological or emotive sensations. No Vていく form.
+
+になる - for changes not involving speaker's volition. (passive)
+にする - for changes involving speaker's volition. (active) Understood as: Decide on ~; make it ~
+
+~ようになる - Some change takes place gradually. Understood as: Reach the point where ~; come to ~; it has come to be that ~; have finally become (focuses on change from A to B) Can also mean "something is made/designed so that"
+~ことになる - An event takes place as if spontaneously, irrespective of the speaker's volition. Understood as: It will be decided that ~; come about ~; be arranged that ~; turn out that ~ (focus on final result): Often added after a verb to indicate a result or an explanation. Can mean ‘that makes it…’ or ‘this means that it was…’.
+~ようにする - Someone causes some circumstantial or behavioural change to take place. Understood as: Do ~ in such a way that ~; see to it that ~; make sure that ~; bring it about that ~ Can also be understood as "try to" (focus on one's effort)
+~ことにする - A volitional decision to do something is made. Understood as: Decide to Can also be understood as "pretend something happened"
+
+~ことになっている - to be supposed/should to be, to be made for: other meanings below
+1. It is decided that... (generally used for somthing that has happened without speaker's volition), and it is still true at the time of speaking (ことになった is used for decisions make very recently, ことになっている is used for decisions made long time ago and is still in effect, ことになった can also be used for changes in distant past but it makes us uncertain if the changes still exist or not, it can mean ‘it was decided that…’ or ‘circumstances resulted in…’)
+2. Something must be certain way because of a variety of rules, customs, or schedules.
+3. (Already done and is still true) end up (with), cause, come to mean that
+4. Sometimes mean "it is supposed that ～ (although that's not true)", "(externally) it is believed that ～". (https://japanese.stackexchange.com/questions/83796/understanding-%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B)
+5. Generally, the literal meaning of ~ことになっている is to had become somthing and the result is still put in effect. Context is required for its actual meaning.
+
+ということだ
+
+Can be used to report someone's opinion. ということです essentially means "it is said that..." or "it is reported that..." or "according to our sources." Can also mean "I heard that." It is like そうだ but sounds more serious and certain. 「ということだ」 indicates that the information was heard from a public source, while 「そうだ」 indicates that it was heard from a private source (e.g., your friends or family).
+
+なんか
+
+1. Short for 何か
+2. Filler word (similar to English "like")
+3. Colloquial version of など (usually scornful or dismissive)
+
+なんて
+
+1. Emphasize the preceding clause in a positive or negative fashion. (replace なんて ( = nante) with なんか  ( = nanka) when it comes after a noun and when you want to emphasize the word showing your strong emotion or belittle someone/something.)
+2. When you look down, belittle someone or something or lack of confidence.
+3. なんて  ( = nante) + 〜　: （exclamatory sentence) How ~ !・What a 〜
+4. Short for なんという
+5. When you quote something / such as, things like, a person like
+
+で
+
+この助詞の「で」は、範囲（限定）を表すものです。
+
+例えば
+
+◇日本食の中で、一番好きな食べ物は何ですか？
+
+◇この中で、誰が一番可愛いと思う？
+
+◇このホテルは、1泊6000円で、泊まれます。
+
+◇この料理は、たまご2個で、作れます。
+
+全て、限定を表してるのが共通だとわかりますか？
+
+だから、あなたのメールのやりとりの
+
+普通の彼女で不安になることあった?
+
+「普通の彼女で不安になることはあった？」というの彼氏のいない女の子を彼女にした時でも、不安になるの？と、「彼氏のいない女の子」に限定しています。
+
+or can be て-form of だ. it can indicate reason.
+
+もの(だ)
+
+Expresses various degrees of emotion like emotive excuse, exclamation, nostalgic reminiscence, desire, indirect command and conviction (emotion nurtured in one's mind for a relatively long period time). もの is contracted into もん in very colloquial speech and usually indicates a reason or an excuse.
+
+こと
+
+1 - Soften the impact of an expressed opinion
+
+これだけ言ってもまだ分からないのなら、も知らないことよ
+
+If you still don't understand after all I've said, then i just give up
+
+2 - Express mild surprise or a positive impression
+
+おや、珍しい鳥がいること
+
+Look, there's a rare bird!
+
+3 - Casual question at the end of the sentence
+
+これからおじゃましてもいいこと?
+
+Would it be all right to come over now?
+
+4 - Rhetorical question that is exclamatory
+
+彼女の会社、年休五週間ですって。うらやましいこと
+
+Her company has five week vacation per year, i hear. Isn't it enviable!
+
+5 - Express casual suggestion for action, following a negative form of the verb
+
+これから映画にでもいきませんこと？
+
+How about going to a movie now?
+
+6 - Turn a statement into a command
+
+借りた金は必ず返すこと
+
+Theory: Sometimes ということ is used over こと if the speaker wants to be less direct.
+
+こと, の, ということ and というの interpretation: https://japanese.stackexchange.com/questions/4581/what-does-using-%e3%81%a8%e3%81%84%e3%81%86-add-to-a-sentence?noredirect=1&lq=1
+
+Make sure (you) pay back the money (you) borrow
+
+やっぱい
+
+1. As I thought; As I expected; I thought so; I told ya
+
+やっばり? - I wasn't sure before but now that I know the fact that I'm sure I thought so
+
+さすが is more praiseful than やっばり
+
+2. Used when you re-assert your opinion or you re-realize something. (something like you already know something beforehand and you recall this fact at the time of speaking)
+3. On second thought (used if you changed your mind on something)
+
+Other forms: やはり and やっぱ
+
+https://www.youtube.com/watch?v=aUmb-qCC4ec
+
+知らない
+
+Sometimes, it does not mean "I do not know.". It is more like "Don't say I didn't tell you!" or "I won't be responsible (for that)!" or maybe “not to care”/”give up on someone/something”
+
+ても
+
+1. Expresses "even if.
+2. Expresses "even though/although."
+3. When combined with an interrogative word like 何, 誰, どう, etc., expresses "no matter what/who/how/etc."
+4. When いい is added after Vても, implies a speaker is asking for permission to do something.
+
+AてもB = As much as A is happening, still B.
+
+ても can be translated to "no matter how/who/what" or "whether" just to make sense in English, or sometimes ignored. So in this case, "No matter how I battle, I'm strong." or even "When I battle, I'm strong."
+
+Here are some examples that don't translate well to "even if":
+
+俺は誰が見ても天才だ。
+
+No matter who looked (=As anyone can see), I'm a genius.
+
+こんなに酒を飲んでも朝起きられますか？
+
+You drank so much; will you be able to wake up in the morning?
+
+でも
+
+1. But (used at beginning of a sentence)
+2. after noun: or somthing
+3. after noun: even
+4. て-form of だ + も (ても grammar)
+5. scope marker で + も
+
+じゃない
+
+- When ungrammatically appended to the end: isn't it? but never express negation (other variants not limited to じゃん, じゃないか, じゃない!!)
+- Plain negation
+
+xxxじゃない - not xxx
+xxxじゃない? - isn't it xxx?
+xxxじゃない! - means neither of above, use when we actually recognize xxx
+
+NOTE: true meaning depends on context
+
+のでは
+
+- Short for のではないか/のではないだろうか
+- Often used for suggestion
+
+んじゃない
+
+- Negation with explanatory tone
+- Isn't it with explanatory tone
+- Maybe/Perhaps/I wonder
+- Other variants not limited to んじゃないか, のではない, のではない
+- xxxの/んじゃない, Sometimes that one seems to nominalize the phrase and make it negative, and sometimes it's just a sentence ending tag depending on context
+- revelant: https://www.nihongo-appliedlinguistics.net/wp/archives/4089, https://japanese.stackexchange.com/questions/27590/%E3%81%9F%EF%BC%8B%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8B-or-%E3%81%9F%EF%BC%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8B-can-someone-enlighten-me
+
+による/によって/により
+
+1) caused by ~ / due to ~ : something happens/happened because of ~ (a reason)
+2) depending on ~ (when highlighting differences)
+3) by (a method/way/means)
+4) by: something is done by ~ (identifies the agent of the action, particularly in a passive sentence)
+5) According to ~ (usually によれば/によると) / (Something is decided) based on ~
+
+Three meanings of でもない.
+
+> 1. (exp) neither... nor... (with the implication that there are other "nor..." items)
+>
+> 2. denying explicitly one thing and also denying implicitly other things as well
+>
+> 3. not like (you); not (your) usual self
+
+1. でもない is similar to じゃない = ではない but with a sense of inclusion (due to the も particle). Suppose I'm negating A, B, and C, I can write something like this
+
+> Aではない。Bでもない。Bでもない。
+
+Using the grammatical properties of も, it can be simplified to
+
+> AでもBでもBでもない。
+
+2. Suppose you told yourself:「大した人間でもない」. It means something like "I'm not a wonderful person (also reliable person, leader, famous person, etc.)" ie. "I'm nobody."
+
+Vてやる
+
+1. Give something to someone of lower status. Can be used to as expression og anger.
+2. Someone does something undesirable to someone else when he/she knows his/her action will cause hardship or trouble. See https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%82%84%E3%82%8B2.html
+3. To (proactively) perform an action so as to prove one's ability to others.
+
+(つまり)～～ってことか means "(So,) does it mean...?"
+**つまり is not necessary and is optional
+
+「～ってことだ」 means "That means..."
+
+ということだ (similar to つまり～だ) means: (conclusion) in other words, ...
+
+わけ Intuition:
+
+Cause/conclusion are in the same relationship.
+
+わけ = *underlying* "reasonality"/cause
+
+Forward "reasonality": It is raining therefore I'm wet.
+Backward "reasonality": I'm wet therefore it is raining.
+
+そんなわけで = by that such reasonality, ... (might mean "that's why")
+というわけで = by this reasonality, ... (almost like だから)
+XというわけでY - Y because X; X, so Y; Y is a conclusion from X
+〇〇という理由で　&　〇〇というわけで　For that reason; on the grounds of _____, ...; That's why; Thus; In conclusion; That being the case
+ということで is almost equivalent to というわけで, but mostly used for hearsay
+というわけで we explain the reason/cause of situation and with ということで we explain specifics
+
+わかる - to break down (by itself) and to be analyzed and then understood (to me)
+わけがわからない - incomprehensible; lit: reasonality is not be able to be understood
+
+わけじゃない:
+
+"It is not the reasonality that... from..."
+
+Take sentence A and sentence B, which is a conclusion for A, then deny that B conclusion can't be drawn from A. In other words, deny there is *underlying logical link* between B and A, not necessary situation itself.
+
+Y=Xわけじゃない => Y doesn't have reasonality of entailing X.
+
+わけがない:
+
+"There is no reasonality for..."
+
+Xわけ(が)ない => X does not have any reasonality.
+
+Three implications:
+1. Therefore X is not true.
+2. Literally, reasonality for X does not exist, but X exist (or not) with no reason (e.g. 彼はそんなに金が要るわけがない => it doesn't matter if he have that amount of money or not, reason for needing not exist).
+3. Hyperbole meaning 簡単. わけないこと means something that doesn't have any reasonality. In other words, something that doesn't need brains to figure out the underlying reasonality. This thing is simple enough to exist with no reason.
+
+わけに（は・も）いかない:
+
+"it’s not proper that..." or "it's not possible that..."
+
+Literally means "doesn't go to that reasonality."
+
+Under certain circumstances/ due to some reason* you can’t afford to do  ~ / you have no other choice but do ~.
+
+*The reason can be one’s personal reason, moral, common sense, socially accepted idea, one’s sense of justice.
+
+Involves one’s strong will.
+
+わけにはいかない sounds stronger than わけにもいかない
+
+Summary of わけ usage:
+1. [Conclusion]: Fact -> Thus, (it is case that) Conclusion (使い方: Conclusionわけ)
+2. [Marks a reason or cause for some matter]: Fact -> It is because/due to Reason; It is conclusion of Reason (使い方: Reasonわけ)
+3. [Acceptance/Acknowledgement of some truth]: (Fact -> Why? ->) Reason/Cause -> This is Fact's reason (使い方: Factわけ)
+4. [Marks a restatement or summary of some fact]: Fact -> (In other words) it is summary that Summary (使い方: (つまり) Summaryわけ)
+5. Nothing
+
+わけではない
+
+lit “It is not the reason (why)” / “It’s not the case” / “It doesn’t mean.”
+
+use when we want to say It doesn’t mean that., It’s not like 〜. , It’s not the case that 〜., I don’t mean that〜., That is not why 〜., That is not the reason 〜., It is not really 〜., not to do much〜., not necessarily, not altogether 〜., not particularly 〜.
+
+わけがない means "There is NO WAY that 〜, it is impossible that 〜, can’t be"
+
+わけでもない
+
+The meaning is almost the same as わけではない (It doesn’t exactly mean ~, etc.)
+
+You use わけでもない
+1) when you negate a couple of things.
+(Aのわけでもないし)Bのわけでもない。
+(It doesn’t mean A) It doesn’t either mean B.
+
+Ex.（彼女が嫌いになったわけでもないし）彼女と別れようと思っているわけでもない。
+= (It doesn’t mean I stop liking her) I am not thinking about breaking up with her.
+
+2) When someone tells you something, and you negate the possibility in a subtle way.
+
+A: どうして今日は、出かけないの？　疲れたの？
+= How come you don’t go out today? Are you tired?
+B : そういうわけでもないんだけど…
+= Not exactly but…
+
+1) わけではない denies stronger than わけでもない
+
+A) そういうわけではない That is not the reason / That is not the case /
+B) そういうわけでもない Not exactly
+
+わけでもない sounds more vague and it implies that could be a part of the reason.
+
+2) However there are cases わけでもない emphasizes more than わけではない like “even”
+
+C) 先生になるわけではない (It doesn’t mean (this person) will become a teacher.)
+D) 先生になるわけでもない ((This person) won’t become “even” a teacher)
+
+だって
+
+1. even
+2. also
+3. similar to たって - no matter what or even if/although
+3. but/because
+4. someone said/wrote (だと + quotative verb like 呼ぶ)
+5. From #4, 「だって」 can expresses one's surprise, criticism, etc. toward the statement that is being quoted. (e.g. 弟子にしろだと, spoken by Sasuke when Boruto request him to make him his student)
+
+Someone will くれる to you. You will もらう from someone. You will あげる to someone.
+
+Sentences ending in て-form
+
+1. Indicates request (くれ/ください/くれる is removed)
+2. Reason for previous statement or some unspoken statement... (sometimes, it's an example of sentence inversion)
+3. Implies speaker is not finished and has more to say.
+
+See https://japanese.stackexchange.com/questions/60762/%E3%81%A6-form-at-end-of-phrase-but-not-being-used-for-requests/
+
+Causual relationship becomes more indirect in this order: ないから, ないので, ないで and なくて (change the part after な to ず ( = zu) or ずに ( = zuni) in more literal sentence).
+
+って
+
+1. Colloquial topic marker, can mean something like は, というのは, のは, etc.
+2. Colloquial version of と (usually indicate emitted verb like 言う; if conditional; must not)
+3. Variant of ってば
+
+ってゆうか,っていうか,っつーか,っつうか,つーか,てゆーか,ってか,てか
+https://www.reddit.com/r/LearnJapanese/comments/8z3zzf/%E3%81%A6%E3%81%84%E3%81%86%E3%81%8B_usage/
+https://japanese.stackexchange.com/questions/85962/what-is-the-role-of-%e3%81%a8%e3%81%84%e3%81%86%e3%81%8b-at-the-beginning-of-sentence
+https://maggiesensei.com/2012/05/07/direct-indirect-speech-%EF%BC%86%E3%81%A3%E3%81%A6tte/ (about って as well)
+https://maggiesensei.com/2010/03/23/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8-%EF%BC%88chotto-%E3%81%82%E3%81%84%E3%81%BE%E3%81%84%E8%A1%A8%E7%8F%BEaimai-hyougen-ambiguous-expressions/
+
+noisy, annoying, shut the fuck up
+うるさい
+うっさい
+うっせい
+うっせぇわ
+うるせい
+うるせぇ
+
+ん - yes; yeah; uh huh
+うん - ん
+ううん - um; er; well
+はい - yes, that's correct (polite)
+いいえ - no; nah; well; er; why
+う-ん - hmm
