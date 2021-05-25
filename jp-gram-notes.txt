@@ -1,7 +1,26 @@
 日本語文法ノート
 
+Notes on て形 expressions:
+
+Vている:
+
+- Can be understood literally as "V exists"
+- Indicates continuous action, continuous state, or habitual action (def of present tense)
+
+Vてある:
+
+- Indicates: Someone did something to X (usually for purpose) (Thus, Verbて is usually a transitive verb) and X is still in that state.
+
+Vておく:
+
+- Either mean "to do something in advance for future" (準備) or "to something and put its results in place" (ie. to leave a situation as it is for now or for some time, does not always indicate preparation for future) (放置)
+- With a causative verb, Verbておく usually express the idea that someone lets someone or something remain in his/its present state.
+
+See this for more: https://www.tomojuku.com/blog/teoku/
+
 「Vていく」と「Vてくる」の意味
 
+Possible meanings:
 1. Describes leaving somewhere for temporary time for a trivial purpose (then come back). No Vていく form of this pattern.
 2. Do something somewhere and then move on. Both Vていく and Vてくる are used
 3. Vてくる describes situation continually changing from past to present (speaker's point of view). Vていく is for action that will continue to change from present (speaker's point of view) to future. (Used with verbs that express change.)
@@ -30,6 +49,10 @@
 ということだ
 
 Can be used to report someone's opinion. ということです essentially means "it is said that..." or "it is reported that..." or "according to our sources." Can also mean "I heard that." It is like そうだ but sounds more serious and certain. 「ということだ」 indicates that the information was heard from a public source, while 「そうだ」 indicates that it was heard from a private source (e.g., your friends or family).
+
+ほど usages:
+
+...
 
 なんか
 
@@ -572,7 +595,6 @@ Plain               Honorific               Humble
 Some notes:
 - When using 謙譲語, です, であります, and でございます are used to refer to yourself, but never でいらっしゃいます because いらっしゃる is 尊敬語.
 - When using 尊敬語, でいらっしゃいます is used for animate objects while でございます is used for inanimate objects (ございます <-> ある; いらっしゃいます <-> いる).
-- Depending on context, いらっしゃる mean can mean 来る、行く、or いる.
 - To make a verb humble: お/ご + V-masu-stem + する
 - To make a verb honorific: お/ご + V-masu-stem + になる or conjugate into passive form (sometimes both)
 - Another way make a verb honorific: お/ご + V-masu-stem + です
