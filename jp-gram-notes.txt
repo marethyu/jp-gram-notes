@@ -2,7 +2,7 @@
 
 「Vていく」と「Vてくる」の意味
 
-1. Describes leaving somewhere for temporary time for trivial purpose (then come back). No Vていく form of this pattern.
+1. Describes leaving somewhere for temporary time for a trivial purpose (then come back). No Vていく form of this pattern.
 2. Do something somewhere and then move on. Both Vていく and Vてくる are used
 3. Vてくる describes situation continually changing from past to present (speaker's point of view). Vていく is for action that will continue to change from present (speaker's point of view) to future. (Used with verbs that express change.)
 4. Vてきた is present perfect tense; Vていく is for continuation from present to future. Speaker's focus is on present or specified time. Often used with 今まで and これから. (Describes temporal continuation.)
@@ -233,6 +233,81 @@ The basic meaning is something among "to hang", "to hook", "to put", and "sprink
 
 ということだ (similar to つまり～だ) means: (conclusion) in other words, ...
 
+The FULL name of volitional form (う-auxiliary) is volitional-presumptive-hortative form. (意志・推量・勧誘) So:
+
+夜11時だし俺もう寝よう is volitional.
+
+ねぇねぇ、一緒に食べよう is hortative (persuasive).
+
+通常の五倍はあろう is presumptive.
+
+上 (じょう):
+
+名詞＋上
+
+意味:
+- From the viewpoint of: 〜の点で; 〜の点からいうと; 〜の点から言って; 〜観点からいうと
+- (上は)In (domain): 〜の上では; 〜の範囲では; 〜の方面では
+- Relation: 〜に関する
+- For the sake/purpose/reason: 〜のために
+- Time: 〜時の: 〜に際しての; 〜における
+- On (surface) e.g. 地球上
+- Best; Highest
+
+の上では:
+
+名詞＋上/上は/上も/の上では/の上でも
+
+「Ａの上ではＢ」の意味:
+- Ａの観点から見るとＢという状況
+- Ａの方面から考えて判断するとＢという状況
+- As far as~ is concerned; as far as~ goes; from the viewpoint/standpoint of; according to; in terms of
+
+*の上では != の上で
+
+Ａ上はＢ:
+
+動詞［辞書形］＋上は
+
+意味: Ａという状況だから当然Ｂする，Ｂするしかない，Ｂするべきだ
+
+上で #1:
+
+動詞［辞書形］＋上で
+名詞＋の上で
+
+意味:
+- 〜する場合
+- 〜する過程で
+
+上で #2:
+
+[動詞［た形］ / 名詞(する動詞)の] ＋ [上で / 上の / 上での / 上]
+
+意味:
+- まず〜をして、その後（あと）で〜する
+- まず〜をしてから〜する
+- 「Nの上で」の形で使われる場合は、「〜上で」が「〜する場合」か「まず〜てから〜する」という意味
+
+*intuition for the first two meanings: a preparatory action is done first and main action is performed on the *top* of the prep. action
+*この文型は「Aた上でBする」の形で「Bをするためには、まずAをしなければならない」というような意味が含まれる
+
+上(に):
+
+Sentence+上(に) (relative clause)
+
+意味:
+- 〜し、それに〜
+- 〜し、更（さら）に〜
+- 〜ばかりで(は)なく〜も
+
+*「いいことにはいいこと」を、「悪いことには悪いこと」をプラスして言わなければいけない
+
+例:
+このパソコンは便利な上に安い => このパソコンは便利し、更に安い (便利, 安い => いいこと)
+
+Useful: https://nihongonosato.com/jlpt/n2-grammar/n2-uede/
+
 わけ Intuition:
 
 Cause/conclusion are in the same relationship.
@@ -331,6 +406,32 @@ B) そういうわけでもない Not exactly
 C) 先生になるわけではない (It doesn’t mean (this person) will become a teacher.)
 D) 先生になるわけでもない ((This person) won’t become “even” a teacher)
 
+A combination ～ようと of a volitional and と can be also used adverbially to signify “trying to (do)” or “in an attempt to (do).”
+Verb (volitional) + と+ Verb: As part of an effort to do {first verb}, the person does {second verb} This is a variation of the ようとする pattern.
+
+電話に出ようと立ち上がる stand up (trying) to answer the telephone
+星をつかもうと手を伸ばす extend one’s arm trying to grab a star
+彼の返事を聞こうと電話をかけた。
+
+に見える
+    Used when a thing appears like something to the speaker.
+
+Example:  灰色と黒の世界の中、彼女だけが色付きに見えた。(It was like she was the only thing with color, in the middle of a gray and black world)
+女に見える (He looks like / could pass for a woman)
+夕方に人の影が化物に見えた (At dusk, the shadows of people looked like monsters.)
+
+～のか、～
+Form: {A guess that would explain why} + なのか, {Observation}
+	Used when the speaker states what happens, and while wondering takes a guess why.
+Example: 木々の影に隠れたのか、彼女の姿はなかった。
+彼はここの学生なのか、この辺を良く知っている。
+
+せいか
+Form: {Possible cause + のせいか、result}    
+    Used when the speaker states the result and also wonders if the prior thing could be the cause. Unlike せい, せいか can be used with a positive cause and effect.
+Example: 空気が綺麗なせいか、空の青いが東京より軽く、爽やかだった。
+    天気のせいか、人出があんまりよくない。
+
 だって
 
 1. even
@@ -340,13 +441,69 @@ D) 先生になるわけでもない ((This person) won’t become “even” a 
 4. someone said/wrote (だと + quotative verb like 呼ぶ)
 5. From #4, 「だって」 can expresses one's surprise, criticism, etc. toward the statement that is being quoted. (e.g. 弟子にしろだと, spoken by Sasuke when Boruto request him to make him his student)
 
-Someone will くれる to you. You will もらう from someone. You will あげる to someone.
+あげる/くれる/もらう notes:
+
+あげる: give (up to other)
+
+(giver)がreceiverに~あげる
+
+- Requires giver's POV (not limited to you). 
+- Vてあげる = do something to other
+
+くれる: give (down to me/us)
+
+giverが(receiver)に~くれる (push -> download)
+
+- Requires receiver's POV (yourself or somebody close to you).
+- First person (receiver) can never be subjects in くれる sentences.
+- Needs giver's initiative.
+- Vてくれる = somebody do action for me/us.
+- Used with favorable actions directed towards you.
+- If an action is directed towards you does not end with てくれる, you are neutrally describing the action or the action is somewhat disfavorable to you.
+- Can be used sarcastically when someone does something unpleasant to you.
+- The opposite of くれる is V-masu-stem　+ やがる. It is used show that an action disfavorable to you.
+
+もらう: make someone do a "service" to me/us
+
+receiverがgiverに/から~もらう (user-initialized pull -> download)
+
+- The actor/receiver of もらう can be you or somebody else. You can talk about other people もらうing.
+- Needs user's initiative.
+- Vてもらう = "I got someone do something to me/us"
+- Is receiver-centered, unlike くれる which is giver-centered. Has no participating giver. Giver is not needed most of time.
+- Vてもらう is almost like [somebody]にVさせる (causative)
+
+TL;DR: Someone will くれる to you. You will もらう from someone. You will あげる to someone.
+
+させてもらう:
+
+させていただきます (humble form, flowery version of 致す)
+
+Meanings:
+- Allow me to do XXX
+- I take a pleasure of doing XXX
+- I receive your causation/allowing for me to do XXX
+
+[ACTOR]が[DIRECTOR]に[ACTION]させてもらう = "[ACTOR] (will) get/receive [DIRECTOR]'s allowing/causation to perform [ACTION]"
+
+In regards to your *own* request, you always say XXXさせてもらう
+
+私が Bに やらせてもらう = I receive B's allowance to do.
+
+Bが 私に やらせてくれる = B let me do.
+
+The nuance is that in ~もらう, I wanted to do, so whether B permitted or not I intend to do anyway. In ~くれる, the spotlight is on B's permission.
+
+Example:
+
+When you write 質問させてもらいます in LearnJapanese before asking question. It means "Allow me to ask a question." It is a request to FOR & FROM myself TO the LearnJapanese community, and I’m going to do it, of course.
 
 Sentences ending in て-form
 
 1. Indicates request (くれ/ください/くれる is removed)
 2. Reason for previous statement or some unspoken statement... (sometimes, it's an example of sentence inversion)
 3. Implies speaker is not finished and has more to say.
+4. The te-form is sometimes used with an irritating voice to point out someone's bad or surprising behavior. For example, a mom may say "またこんなに散らかして!" ("You've made such a mess of the room again!") to her child (commom with やがる).
 
 See https://japanese.stackexchange.com/questions/60762/%E3%81%A6-form-at-end-of-phrase-but-not-being-used-for-requests/
 
@@ -378,6 +535,52 @@ noisy, annoying, shut the fuck up
 はい - yes, that's correct (polite)
 いいえ - no; nah; well; er; why
 う-ん - hmm
+
+敬語まとめ
+========
+
+Types:
+
+尊敬語 (respectful language): Refers to any language that directly pays respect towards whomever it's used towards. any words in this category raise the person in question of status, so any words in this category are super rude if used towards oneself (important). on the flipside, it's super respectful to use this towards people you want to show respect to.
+
+謙譲語 (humble language; previously known as 謙譲語１): Refers to any language that add humility to whoever it's used towards. any words in this category lower (or raise) the person is question of status, so any words in this category are super rude if used towards the other person. on the flipside, it's super polite to use this towards yourself as it shows you're being humble.
+
+丁寧語 (polite language): Refers to any language that just... sounds polite. it's not humble, it's not respect-showing, just polite. it's often used to refer to です　ます forms.
+
+丁重語 (courteous language; previously known as 謙譲語２): Basically the exact same as 謙譲語 with the difference being that it's used to refer to situations where the other party isn't present (いたす、申す、参る etc fall under this category).
+
+美化語 (beautification words; previously part of 丁寧語): Refers to language that shows respect simply by sounding more socially proper (specifically お/ご). this is easily confusable with 尊敬語, as many お/ご words directly pay respect to the other party. the only way one can know if a word pays respect to the other party or just sounds polite in general is through exposure. you can use 美化語 to refer to yourself, but you can't 尊敬語
+
+Politeness depends on how much 敬語 is used.
+
+Basic verbs:
+Plain               Honorific               Humble
+する	                なさる	                致す
+行く	                いらっしゃる／おいでになる	    参る
+来る	                いらっしゃる／おいでになる	    参る
+いる	                いらっしゃる／おいでになる	    おる
+見る	                ご覧になる	            拝見する
+聞く	                －	                    伺う
+言う	                仰る	                    申す／申し上げる
+あげる	            －	                    差し上げる
+くれる	            下さる	                －
+もらう	            －	                    いただく
+食べる	            召し上がる	            いただく
+飲む	                召し上がる	            いただく
+知っている	            ご存知（です）	            存じる
+
+Some notes:
+- When using 謙譲語, です, であります, and でございます are used to refer to yourself, but never でいらっしゃいます because いらっしゃる is 尊敬語.
+- When using 尊敬語, でいらっしゃいます is used for animate objects while でございます is used for inanimate objects (ございます <-> ある; いらっしゃいます <-> いる).
+- Depending on context, いらっしゃる mean can mean 来る、行く、or いる.
+- To make a verb humble: お/ご + V-masu-stem + する
+- To make a verb honorific: お/ご + V-masu-stem + になる or conjugate into passive form (sometimes both)
+- Another way make a verb honorific: お/ご + V-masu-stem + です
+- Polite request: お/ご + V-masu-stem + ください
+- Make a honorific request: Conjugate the honorific verb to the special masu-conjugation and replace the last 「す」 with 「せ」 (An abbreviated and less formal version of this is to simply remove the 「ます」 after conjugating to the special masu-form: 下さる -> 下さいます -> 下さい)
+- させていただきます (see notes on させてもらう)
+
+Interesting link: https://www.reddit.com/r/LearnJapanese/comments/5hz16i/keigo_is_taught_pretty_poorly_and_i_want_to_offer/
 
 Japanese contractions and slangs
 ================================
