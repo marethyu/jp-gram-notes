@@ -1,22 +1,95 @@
 日本語文法ノート
 
+は bs が
+
+は functions:
+
+- topic marker for things that is already mentioned
+- emphasize what comes after
+- contrast marker - focus one one specific thing, not others (could give nuance of "only")
+- emphasis in affirmative and negative sentences
+- nothing, e.g. the は in ではない is ingrained
+- softener for seemly rude sentences
+
+が functions:
+
+- introduce new things to the universe of discourse (not always, see the next point)
+- emphasize what comes before
+- neutral choice of subject
+- exhaustive-listing - like contrastive は but with nuance that you are certain about other choice is not same as what you selected (think of it as "out of others...")
+
+Which one to use?
+
+Start here. Is the subject embedded in a relative clause, noun-modifying phrase, etc? If yes, use が, unless using contrastive は is appropriate in context. If no, continue.
+
+Is the subject singled out for exhaustive-listing? If yes, use が. If no, continue.
+
+If Ruleset 2 would have you use は, and the subject is within the universe of discourse, use は. Otherwise, use が.
+
+**
+Ruleset 2 applies to the subject of a simple sentence, or the subject of the main clause in a complex sentence. (That is, it's not the subject of a relative clause, per Ruleset 1.)
+
+1. If the predicate is NOT a verb, (that is, if it's an adjective, noun+だ, etc), then は is the typical choice. When the predicate IS a verb, は is still the typical choice if one or both of the below conditions apply.
+
+2. It describes a permanent or habitual action/event/state.
+
+It’s a negative sentence. (Sometimes, this could also mean a sentence that is grammatically positive but expressing a bad outcome.)
+
+Note however that if the subject uses は per this ruleset, it must be within the universe of discourse (or is assumed as such, if it's presented as a sentence alone).
+**
+
+AてB meanings:
+- A happened, then B happened (sequential action)
+- A and B are happening at the same time (simultaneous state)
+- Since A, B happens (A is a reason for B)
+- B is performed *using* A (adverbial)
+- A is contrasted with B
+- B is unexpected in terms of A
+
+例文 for adverbial て形:
+歩いて学校に行く。
+急いで食べる。
+順を追って説明してください。
+頑張って宿題を終わらせる。
+立って話をする。
+美術館では矢印を見て、進んで下さい。
+フライパンを使って、料理をします。
+現代人は絵文字を使ってＳＮＳやメールなどに感情を表すことができる。
+けいまくんは自転車に乗って学校に行っています。
+総理大臣は新幹線を利用して東京に戻りました。
+
+Further reading:
+- https://itazuraneko.neocities.org/grammar/dojg/dojgpages/basic%E3%81%A6.html
+
 Notes on て形 expressions:
 
 Vている:
-
-- Can be understood literally as "V exists"
-- Indicates continuous action, continuous state, or habitual action (def of present tense)
+- Can be understood literally as "V exists" (ie. Some action started in the past and it relates to present).
+- Depending on context, indicates continuous action, continuous state, or habitual action (def of present tense), experience (have seen this movie once-twice).
 
 Vてある:
-
 - Indicates: Someone did something to X (usually for purpose) (Thus, Verbて is usually a transitive verb) and X is still in that state.
 
 Vておく:
-
 - Either mean "to do something in advance for future" (準備) or "to something and put its results in place" (ie. to leave a situation as it is for now or for some time, does not always indicate preparation for future) (放置)
 - With a causative verb, Verbておく usually express the idea that someone lets someone or something remain in his/its present state.
 
 See this for more: https://www.tomojuku.com/blog/teoku/
+
+"must (not) do" grammar:
+
+Must not [verb]: V-te-form + は + だめ、いけない、ならない
+Must [verb]: V-negative-te-form + は + だめ、いけない、ならない OR V-negative + と + だめ、いけない、ならない OR V-negative-ba + だめ、いけない、ならない
+
+Shortcuts for must not [verb]:
+- ては -> ちゃ
+- では -> じゃ
+- don't omit だめ、いけない、ならない
+
+Shortcuts for must [verb]:
+- なくて -> なちゃ
+- なければ -> なきゃ
+- omit だめ、いけない、ならない
 
 「Vていく」と「Vてくる」の意味
 
@@ -34,7 +107,7 @@ Possible meanings:
 になる - for changes not involving speaker's volition. (passive)
 にする - for changes involving speaker's volition. (active) Understood as: Decide on ~; make it ~
 
-~ようになる - Some change takes place gradually. Understood as: Reach the point where ~; come to ~; it has come to be that ~; have finally become (focuses on change from A to B) Can also mean "something is made/designed so that"
+~ようになる - Some change takes place gradually. Understood as: Reach the point where ~; come to ~; it has come to be that ~; have finally become (focuses on change from A to B) Can also mean "something is made/designed so that" (see ようになっている)
 ~ことになる - An event takes place as if spontaneously, irrespective of the speaker's volition. Understood as: It will be decided that ~; come about ~; be arranged that ~; turn out that ~ (focus on final result): Often added after a verb to indicate a result or an explanation. Can mean ‘that makes it…’ or ‘this means that it was…’.
 ~ようにする - Someone causes some circumstantial or behavioural change to take place. Understood as: Do ~ in such a way that ~; see to it that ~; make sure that ~; bring it about that ~ Can also be understood as "try to" (focus on one's effort)
 ~ことにする - A volitional decision to do something is made. Understood as: Decide to Can also be understood as "pretend something happened"
@@ -46,13 +119,95 @@ Possible meanings:
 4. Sometimes mean "it is supposed that ～ (although that's not true)", "(externally) it is believed that ～". (https://japanese.stackexchange.com/questions/83796/understanding-%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B)
 5. Generally, the literal meaning of ~ことになっている is to had become somthing and the result is still put in effect. Context is required for its actual meaning.
 
+V辞書形/Vない形＋ようになっている - 機械などがそのようにできている。 (例: 携帯電話は、しばらく使わないと画面が消えるようになっている。)
+
 ということだ
 
 Can be used to report someone's opinion. ということです essentially means "it is said that..." or "it is reported that..." or "according to our sources." Can also mean "I heard that." It is like そうだ but sounds more serious and certain. 「ということだ」 indicates that the information was heard from a public source, while 「そうだ」 indicates that it was heard from a private source (e.g., your friends or family).
 
 ほど usages:
 
-...
+XXXほど can be usually understood as "to the extend/degree of XXX"
+
+- A (is) not 〜 as B = AはBほど〜ない (〜 can be i-adjective, na-adjective, verb) (Aは can be omitted if obvious from context)
+- Y, that is to the extent of X, ...(something negative) => There is nothing/few Y than X: XほどYは～ない／XくらいYは～ない (X, Y -> 名詞) (例: 人生において、両親が死ぬくらいつらいことはないだろう。; 結末を知りながら見る映画ほどつまらないものはない。)
+- Not as 〜 as someone has imagined/thought/expected, etc.: 動詞［た形］+ほど (例: 思ったほど: ~ as ~ as someone thought, 想像していたほど: ~ as ~ as someone imagined, 期待していたほど: ~ as ~ as someone expected)
+- Not worth doing something or not (a thing) to the extent of... : 動詞［辞書形］+程ではない (例: そんなに怒るほどのことじゃない)
+- Not to the extent of XXX: XXXというほどではない (例: パンツ見えちゃうって程じゃない - "It's not like you can see my panties")
+- To the extent of XXX: XXXほど or XXXくらい (例: 言葉にできないほど美しい景色だ。- This is beautiful landscape, beautiful to the extent that it can't be expressed by words.; この洗剤は面白いほどよごれが取れる。- This detergent gets stains off, to the extent that it delights me. BTW: くらいに/ほどに/ように have almost the same meaning, at least in this context; 私達は一歩も歩けないくらい疲れていた。- We were tired to the extent that we couldn't even walk one step.)
+- ~ of someone’s caliber. someone as good/great as ~ = ~ ほどの (+ adjective) + noun (例: 水原ほどのかわいい女)
+- To express approximate numbers = about, approximately (like くらい/ぐらい)
+- The more (someone does something / adjective) the more ~: 動詞［ば形］ + 動詞［辞書形］ + ほど + 結果 (can apply to い-adjectives as well) (例: あの人のことを好きになれば好きになるほど、心が痛い。; ホテルは安ければ安いほどいいです。)
+- The more (adjective) the more ~ (na-adjective): ~ なら ~ なほど (例: 子供は、元気なら元気なほどいい。)
+- There is a limit for/to~ / Things have limit: ~ にもほどがある (例: ばかばかしいにもほどがある。 -> It is way too stupid; 冗談にもほどがある。-> It has gone way beyond the joke.)
+- In formal situations, ～の程 make words more polite.
+
+Remarks:
+1. 「～ば/～ほど」の文型は、後件が変化動詞。（例）増える、減る、変わる、～になる、～くる
+2. 最初の「～ば/～ほど」を省略してもよい。（例）漢字は書くほど、覚えやすくなる。; 駅に近くなるほど家賃が高くなる。
+3. Related to #2, the meaning of "the more you reach some extent/degree" can be expressed with just a single ほど. XXXほど can take [{V/Adjective い}informal nonpast]ほど or [なAdj]なほど or [なAdj]であるほど or [RelClause+Noun]ほど. (例: 大人しそうな女ほど裏で何やってるかわかんないよね)
+4. 「～ば～ほど」の文法の接続は下記に
+
+> 動ば形＋動辞形＋ほど
+> 動ば形＋動辞形／動た形＋だけ
+> い形容詞語幹＋ければ＋い形容詞辞書形＋ほど／だけ
+> な形容詞語幹＋であれば＋な形容詞語幹＋である／な＋ほど／だけ （な形容詞語幹＋であればあるほど／であればあるだけ）
+> 名詞＋であれば＋名詞＋であるほど／であるだけ （名詞＋であればあるほど／であればあるだけ）
+
+More:
+- https://nihongonosensei.net/?p=9310
+- https://maggiesensei.com/2012/10/10/how-to-use-%E7%A8%8B-%E3%81%BB%E3%81%A9-hodo/
+- https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%81%BB%E3%81%A9.html
+
+けど:
+
+Usages:
+
+1. Show contrast. Just like English's "but." If a sentence ends with けど, the second clause can either be previously mentioned or will be mentioned in the next sentence. Or... Japanese people tend to avoid straight expressions and leave a sentence unfinished on purpose. The listeners should read between the lines. The second clause can be inferred from context. This type of けど could act like a softener. Sometimes, this けど can mean absolutely nothing, so sometimes there's no follow-up sentence. It adds a bit of uncertainty and a feel of indirectness without necessarily implying anything more. In Japanese, being "vague" or roundabout is considered polite. Could be understood as here's more that you'd like to say, but you want to see how your listener is reacting first.
+
+2. The follow-up sentence will add some more information for the けど ending sentence. けど here provides introductory, background information (前置き) first before dealing with the main issue (本題).
+
+3. Colloquially, it can be used to make your point/to complain/to express your feelings
+
+Some functions:
+- Turn taking: 午前と午後の便がありますが・けど - There’s a morning and an afternoon flight but... (which do you prefer/want)? It’s turn-taking here because without it, it’s a statement of fact.
+- Softening requests and invitation: ちょっと質問があるんですけど - I just have a few questions but... (do you think you have time to help me?)
+- Soliciting advice, agreement or opinions: こんなことがいいと思うけど - I was thinking something like this would be okay but... (what’s your take?)
+- Indirectly making your feelings known: 最近、寂しいんだけど - It’s been pretty lonesome lately but... (I miss you/ please invite me to do things)
+- Leaving things unsaid because the listener can pick it up: 最後までがんばったけど… 今度、きっと勝つね - We did our best until the end, but... next time we’ll win for sure, right!
+- And more...
+
+Further reading: https://maggiesensei.com/2016/05/07/how-to-use-%E3%81%91%E3%81%A9-kedo-%E3%81%A0%E3%81%91%E3%81%A9-dakedo/
+
+から sentence ending:
+
+Two ways to understand:
+
+- In AからB sentence, the B clause can be omitted. B can either be previously mentioned in the discourse or appear after Aから。sentence (it can be unspoken if obvious from context).
+- Turns a statement into warning or caution. Kinda like よ particle. For example, when robbing a bank, a robber can command bank staff to freeze by saying「動くな!! 殺してやるからな!!」 with a gun pointed at them.
+
+*Relevant entry from https://dictionary.goo.ne.jp/word/%E3%81%8B%E3%82%89/#jn-45490 for the last から usage:
+> ２ （終助詞的に用いて）強い主張、決意を表す。ぞ。「思い知らせてやる―」
+
+*Check out a monolingual dictionary entry on から if in doubt.
+
+のに:
+
+Has 2 possible interpretations depending on context. We describe our verb and instead of single word plus に or で, we use a whole phrase and that's why we need to add の nominalizer. As result we get のに and ので. But there are 2 ways to use it.
+
+Direct neutral way like 夕食を作るのに忙しい (Busy cooking evening meal)
+
+Contrary to expectations way like 同じトリックなのに全然違う (Despite it's the same trick, totally different)
+
+You can see both are essentially the same and differ only in the meaning. How we do something, or how we don't do something. So when we have omitted phrase after のに, it's usually 2nd contrary to expectations meaning, because it's much easier to infer antonyms to situation than pick from multiple possible neutral ways. For example, when we omit part after "it takes 4 hours....", it's basically impossibly to interpret without context (to fly from A to B). On the other hand omission after "I want to talk..." easily leads to "but somehow isn't possible" interpretation.
+
+Functions;
+- emotional version of けど
+- when sentence ends with のに, usually something is regrettable/disappointing implicitly follow (can give suggestion).
+- ～のに。 = `although ～, (something contrary)`, `A, but..., I wish ～` ((clause A)のに(clause B) = although A, B.)
+- sometimes, it is simply a combination of particles の and に
+
+More: https://japanese.stackexchange.com/a/42414
 
 なんか
 
@@ -62,11 +217,11 @@ Can be used to report someone's opinion. ということです essentially means
 
 なんて
 
-1. Emphasize the preceding clause in a positive or negative fashion. (replace なんて ( = nante) with なんか  ( = nanka) when it comes after a noun and when you want to emphasize the word showing your strong emotion or belittle someone/something.)
+1. Emphasize the preceding clause in a positive or negative fashion. (replace なんて with なんか when it comes after a noun and when you want to emphasize the word showing your strong emotion or belittle someone/something.)
 2. When you look down, belittle someone or something or lack of confidence.
-3. なんて  ( = nante) + 〜　: （exclamatory sentence) How ~ !・What a 〜
+3. なんて + 〜　: （exclamatory sentence) How ~ !・What a 〜
 4. Short for なんという
-5. When you quote something / such as, things like, a person like
+5. When you quote something / such as, things like, a person like. (kinda like という)
 
 で
 
@@ -132,11 +287,46 @@ How about going to a movie now?
 
 借りた金は必ず返すこと
 
+Make sure (you) pay back the money (you) borrow
+
 Theory: Sometimes ということ is used over こと if the speaker wants to be less direct.
 
 こと, の, ということ and というの interpretation: https://japanese.stackexchange.com/questions/4581/what-does-using-%e3%81%a8%e3%81%84%e3%81%86-add-to-a-sentence?noredirect=1&lq=1
 
-Make sure (you) pay back the money (you) borrow
+にする/とする:
+
+「Noun A + を + Noun B + に/と + する」:
+- "to regard A as B"
+- "to make A be B"
+- "to think A as B"
+- "to use A as B"
+- "to treat A as B"
+- "to decide A as B"
+- "to have A as B"
+- "to have A in/on B", etc.
+
+JP def: AをBにして: [~を~であると考えて] and 「N1をN2にして」という形で、ある行動や場面において、N1はN2であると言いたいときの表現
+
+「俺はAをBとしている」 means "I make/regard A as B."
+
+If you conjugate this sentence to passive, you get 「(俺には) AがBとされている」. It means "A is considered as B (by me)."
+
+「AがBとされている」is an example of 自発, so you can understand it as 「(みんなに) AがBとされている」 which means "A is considered as B (by everyone)."
+
+社会常識、一般常識、学問的な理論・定説、習慣などを客観的に述べるときに用います。論文やニュースなどで多く用いられます。
+
+Notes:
+- Whether the change of state is involved or not (i.e. A is "made" into B or originally so) is unspecified and always left ambiguous, so you can only choose the right side from context.
+- と suggests the result is authentic, finalized, or established, whereas に comparatively ad-hoc, questionable, or figurative.
+- Difference between [N1]を[N2]とした[N3] and [N1]を[N2]とする[N3] when modifying a noun: "[N1]を[N2]とした[N3]" sounds more indirect, oblique or roundabout regarding the [N1] than in "[N1]を[N2]とする[N3]". The former with した sounds just slightly more "informal" or even colloquial/conversational at times because of the indirectness. The latter with する has an "official" feel to it.
+- In the AをBにして construction, the して part can be omitted in a sentence when it is *not* modifying a noun.
+- AをBに is a common literary adverbial expression that means with A in/on B, literally or figuratively.
+
+Further reading:
+- https://japanese.stackexchange.com/questions/33722/
+- https://japanese.stackexchange.com/questions/18593/
+- https://japanese.stackexchange.com/questions/20854/ (includes an interesting discussion about difference between に and にして)
+- https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%81%A8%E3%81%99%E3%82%8B1.html (includes discussion on particle usage)
 
 やっぱい
 
@@ -153,6 +343,15 @@ Other forms: やはり and やっぱ
 
 https://www.youtube.com/watch?v=aUmb-qCC4ec
 
+V-masu-stem　+ 切る:
+
+❶ ５巻まである長い小説を夏休み中に全部読みきった。
+❷ 水泳が苦手だった幸子は中学生になってから1,000メートルを泳ぎきって自信をつけたようだ。
+❸ 慎重な彼が「絶対にやれる」と言いきったのだから、相当の自信があるのだろう。
+❹ 田中さんは年を取った両親と入院中の奥さんを抱え、困りきっているらしい。
+
+「Vきる」の形で、動詞に「全部～する／最後まで～する」（ ❶ ❷ ）、「強く～する」（ ❸ ）、「非常に～する」（ ❹ ）などの意味を加える。
+
 知らない
 
 Sometimes, it does not mean "I do not know.". It is more like "Don't say I didn't tell you!" or "I won't be responsible (for that)!" or maybe “not to care”/”give up on someone/something”
@@ -164,7 +363,9 @@ Sometimes, it does not mean "I do not know.". It is more like "Don't say I didn'
 3. When combined with an interrogative word like 何, 誰, どう, etc., expresses "no matter what/who/how/etc."
 4. When いい is added after Vても, implies a speaker is asking for permission to do something.
 
-AてもB = As much as A is happening, still B.
+AてもB = As much as A is happening, still B. (ても is nothing but て-form norminal phrase with も. It can be understood "as to put something alongside of another in consideration.")
+
+*see: https://japanese.stackexchange.com/a/76912/41067
 
 ても can be translated to "no matter how/who/what" or "whether" just to make sense in English, or sometimes ignored. So in this case, "No matter how I battle, I'm strong." or even "When I battle, I'm strong."
 
@@ -177,6 +378,8 @@ No matter who looked (=As anyone can see), I'm a genius.
 こんなに酒を飲んでも朝起きられますか？
 
 You drank so much; will you be able to wake up in the morning?
+
+ては is a like ても but with no sense of inclusion (は vs も). See https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%81%A6%E3%81%AF.html
 
 でも
 
@@ -209,7 +412,7 @@ NOTE: true meaning depends on context
 - Maybe/Perhaps/I wonder
 - Other variants not limited to んじゃないか, のではない, のではない
 - xxxの/んじゃない, Sometimes that one seems to nominalize the phrase and make it negative, and sometimes it's just a sentence ending tag depending on context
-- revelant: https://www.nihongo-appliedlinguistics.net/wp/archives/4089, https://japanese.stackexchange.com/questions/27590/%E3%81%9F%EF%BC%8B%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8B-or-%E3%81%9F%EF%BC%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8B-can-someone-enlighten-me
+- relevant: https://www.nihongo-appliedlinguistics.net/wp/archives/4089, https://japanese.stackexchange.com/questions/27590/
 
 による/によって/により
 
@@ -243,6 +446,14 @@ Vてやる
 2. Someone does something undesirable to someone else when he/she knows his/her action will cause hardship or trouble. See https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%82%84%E3%82%8B2.html
 3. To (proactively) perform an action so as to prove one's ability to others.
 
+とは
+
+the fact that; to think that; such a thing as​ (indicates surprise, disbelief, anger, etc.; sometimes at sentence end)
+
+[大辞泉]: ③文末にあって、下に続くべき語句を省略し、情意を強く表す。「もうこれきり会えない―」「君の恋人が彼女―」
+
+*くだけた言い方では「たあ」となる。
+
 かける/かかる meanings:
 
 The basic meaning is something among "to hang", "to hook", "to put", and "sprinkle." It is often used metaphorically.
@@ -259,10 +470,52 @@ The basic meaning is something among "to hang", "to hook", "to put", and "sprink
 The FULL name of volitional form (う-auxiliary) is volitional-presumptive-hortative form. (意志・推量・勧誘) So:
 
 夜11時だし俺もう寝よう is volitional.
-
 ねぇねぇ、一緒に食べよう is hortative (persuasive).
-
 通常の五倍はあろう is presumptive.
+
+ようが
+
+～ても
+
+no matter what
+
+❶ あの人がどこへ行こうが、わたしには関係ないことです。
+❷ 彼女はまわりがどんなにうるさかろうが、気にしない人です。
+❸ たとえ、だれが何と言おうが、彼は決心を曲げないだろう。
+❹ 雨が降ろうが槍が降ろうが、わたしは行きます。
+❺ たとえ相手が世界チャンピオンだろうが、ぼくは闘うぞ。
+
+接続: Vよう／イAいかろう／ナAだろう／Nだろう＋が
+
+１）「～ようが」の形で「もし～してもそれに関係なく」という意味で、後には、「影響されない・自由だ・平気だ」という意味の文が続く。
+２）「たとえ～ようが・疑問詞～ようが 」の形をよく使う。
+３） ❹ は慣用的表現。
+
+ようと（も）
+
+～ても
+
+whether...or..., even; no matter how...
+
+❶ ほかの人からどんなに悪く言われようと、あの人は平気らしい。
+❷ あの人は他人がどんなに困っていようとも、心を動かさない人だ。
+❸ シベリアがどんなに寒かろうと、このコートと帽子があれば大丈夫だ。
+❹ 高かろうと安かろうと、この色が好きだから買います。
+❺ 嵐だろうと地震だろうと、この家にいれば安全です。
+❻ 忍の本質は変わらない...時代がどう変わろうともな。
+
+接続: Vよう／イAいかろう／ナAだろう／Nだろう＋と（も）
+
+１）「～ようと（も）」の形で「～してもそれに関係なく」の意味を表す。後に「影響されない・自由だ・平気だ」という意味の文が続く。
+２）「たとえ、～ようと（も）・疑問詞、～ようと（も）」の形をよく使う。
+
+まい
+
+Attach to the end of verbs without conjugating anything.
+
+1. Express a strong will to not to do something (e.g. これを食べるまい).
+2. Related to the ようが grammar, "whether or not" (e.g. あいつが大学に入ろうが入るまいが、俺とは関係ないよ). VようかVまいか is similar to Vかどうか.
+3. Subjectively express that something is not possible (e.g. そんなことはあるまい). あるまい is almost like ないだろう.
 
 上 (じょう):
 
@@ -341,11 +594,13 @@ Forward "reasonality": It is raining therefore I'm wet.
 Backward "reasonality": I'm wet therefore it is raining.
 
 そんなわけで = by that such reasonality, ... (might mean "that's why")
-というわけで = by this reasonality, ... (almost like だから)
+というわけで = by this reasonality, with that being said, ... (almost like だから)
 XというわけでY - Y because X; X, so Y; Y is a conclusion from X
 〇〇という理由で　&　〇〇というわけで　For that reason; on the grounds of _____, ...; That's why; Thus; In conclusion; That being the case
-ということで is almost equivalent to というわけで, but mostly used for hearsay
-というわけで we explain the reason/cause of situation and with ということで we explain specifics
+ということで is almost equivalent to というわけで, but mostly used for hearsay; explain specifics
+というようなわけで - almost like というわけで
+
+*で ised in というわけで, etc. is a condition/scope marker, not the connective form for だ because it is not interchangeable with であり, であって, etc.
 
 わかる - to break down (by itself) and to be analyzed and then understood (to me)
 わけがわからない - incomprehensible; lit: reasonality is not be able to be understood
@@ -439,15 +694,18 @@ Verb (volitional) + と+ Verb: As part of an effort to do {first verb}, the pers
 に見える
     Used when a thing appears like something to the speaker.
 
-Example:  灰色と黒の世界の中、彼女だけが色付きに見えた。(It was like she was the only thing with color, in the middle of a gray and black world)
+Example:
+灰色と黒の世界の中、彼女だけが色付きに見えた。(It was like she was the only thing with color, in the middle of a gray and black world)
 女に見える (He looks like / could pass for a woman)
 夕方に人の影が化物に見えた (At dusk, the shadows of people looked like monsters.)
 
 ～のか、～
 Form: {A guess that would explain why} + なのか, {Observation}
 	Used when the speaker states what happens, and while wondering takes a guess why.
-Example: 木々の影に隠れたのか、彼女の姿はなかった。
+Example:
+木々の影に隠れたのか、彼女の姿はなかった。
 彼はここの学生なのか、この辺を良く知っている。
+いつの間に抜け出したのか, 展覧会場から二人の姿は消えていた.　They must have slipped away at some moment, because they were no longer to be seen in the exhibition hall.
 
 せいか
 Form: {Possible cause + のせいか、result}    
@@ -459,10 +717,31 @@ Example: 空気が綺麗なせいか、空の青いが東京より軽く、爽�
 
 1. even
 2. also
-3. similar to たって - no matter what or even if/although
+3. similar to たって - no matter what (with question word) or even if/although
 3. but/because
 4. someone said/wrote (だと + quotative verb like 呼ぶ)
 5. From #4, 「だって」 can expresses one's surprise, criticism, etc. toward the statement that is being quoted. (e.g. 弟子にしろだと, spoken by Sasuke when Boruto request him to make him his student)
+
+ところ:
+
+意味: (specific) place, spot, time, state, scene, part, etc.
+
+文法:
+- plain noun ところ
+- 動詞[辞書形] + ところ = about to do...
+- 動詞[ている形] + ところ = in process of doing...
+- 動詞[た形] + ところ = just finished...
+- A (動詞[た形]) + ところ + B = when/while A (volitional/intentional action) is happening/happened, B happened (result, consequences of A)
+- AところでB = A indicates the location/time/situation/condition for B to happen
+- A (動詞[た形]) + ところで + B = even if A, B; even though A, B; although A, B; (with question word) no matter A, B (the result won’t be desirable anyway)
+- Aところ(に/へ)B = (1) when/while A, B (A and B happen at the same time; focus on the time more than location) (2) A happens, then B immediately follows. (be wary that ところ can sometimes act like a plain noun with に/へ)
+- AところをB = do B to A; even though A, B (when focus on the situation or some action has done to the situation; show contrast - A happens usually, を is optional for this meaning)
+
+Further reading:
+- https://maggiesensei.com/2015/09/02/how-to-use-verb-%E3%81%A8%E3%81%93%E3%82%8D-tokoro/
+- https://japanese.stackexchange.com/questions/19173/
+- https://itazuraneko.neocities.org/grammar/dojg/dojgpages/basic%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A02.html
+- https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%81%A8%E3%81%93%E3%82%8D.html
 
 あげる/くれる/もらう notes:
 
@@ -530,7 +809,37 @@ Sentences ending in て-form
 
 See https://japanese.stackexchange.com/questions/60762/%E3%81%A6-form-at-end-of-phrase-but-not-being-used-for-requests/
 
-Causual relationship becomes more indirect in this order: ないから, ないので, ないで and なくて (change the part after な to ず ( = zu) or ずに ( = zuni) in more literal sentence).
+ないで
+- Works for verbs only, XないでY means "not doing X and do Y" or "do Y without doing X"
+- ないで can be replaced by ずに, if で of ないで somehow retains the original meaning of 'and' in formal writing.
+- Can be used as an imperative (like 殺さないでくれ) or to prefix auxiliary verbs (like 買わないでおく).
+- *ないで should be replaced by なくて only when the ないで clause indicates some cause for human emotion which is expressed in the main clause.
+
+なくて
+- て形 for ない. Implies that a negative statement is the reason for another statement. It doesn't *always* imply a reason, though.
+- The idea of 'X is not Y but Z' is expressed by なくて rather than ないで.
+- Both ないで and なくて is used to express negative paralled actions (like 肉を食べないで、ケーキを食べた - didn't eat a meat but cake).
+- When expressing reasons, you cannot use ないで and ずに in this context.
+- Causual relationship becomes more indirect in this order: ないから, ないので and なくて.
+- For verbs, なくて can be replaced by ず in formal writing (verbs only, not adjectives).
+
+Some exceptions for the ず-form:
+- しなくて -> せず
+- しないで -? せず(に)
+- こなくて -> こず
+- こないで -> こず(に)
+- Vていなくて -> Vておらず
+- Vていないで -> Vておらず(に)
+
+Notes:
+- The に part in ずに is dropped when you are making a negative 連用形 form.
+- ず can express parallel actions while ずに cannot.
+
+More resources:
+- https://itazuraneko.neocities.org/grammar/dojg/dojgpages/basic%E3%81%AA%E3%81%84%E3%81%A7.html
+- https://itazuraneko.neocities.org/grammar/dojg/dojgpages/basic%E3%81%AA%E3%81%8F%E3%81%A6.html
+- https://www.wasabi-jpn.com/japanese-grammar/negative-sequential-and-parallel-actions/
+- http://web.mit.edu/kakikotoba/renyoo-chuushi.html
 
 って
 
@@ -595,17 +904,27 @@ Plain               Honorific               Humble
 Some notes:
 - When using 謙譲語, です, であります, and でございます are used to refer to yourself, but never でいらっしゃいます because いらっしゃる is 尊敬語.
 - When using 尊敬語, でいらっしゃいます is used for animate objects while でございます is used for inanimate objects (ございます <-> ある; いらっしゃいます <-> いる).
-- To make a verb humble: お/ご + V-masu-stem + する
-- To make a verb honorific: お/ご + V-masu-stem + になる or conjugate into passive form (sometimes both)
-- Another way make a verb honorific: お/ご + V-masu-stem + です
-- Polite request: お/ご + V-masu-stem + ください
-- Make a honorific request: Conjugate the honorific verb to the special masu-conjugation and replace the last 「す」 with 「せ」 (An abbreviated and less formal version of this is to simply remove the 「ます」 after conjugating to the special masu-form: 下さる -> 下さいます -> 下さい)
+- To make a verb humble: お + V-masu-stem + する (use いたす to be more humble - not recommended irl) (for する verbs, お/ご + V-suru + する)
+- To make a verb honorific: お + V-masu-stem + になる or conjugate into passive form (sometimes both - not recommended irl)
+- Another way make a verb honorific: お + V-masu-stem + です
+- Polite request: お + V-masu-stem + ください
+- Make a honorific request: Conjugate the honorific verb to the special masu-conjugation and replace the last 「す」 with 「せ」 (An abbreviated and less formal version of this is to simply remove the 「ます」 after conjugating to the special masu-form: e.g. 下さる -> 下さいます -> 下さい)
 - させていただきます (see notes on させてもらう)
+- お/ご + (V-masu-stem / V-suru) + いただく: humble way to express an action done to you by a person of higher status
 
-Interesting link: https://www.reddit.com/r/LearnJapanese/comments/5hz16i/keigo_is_taught_pretty_poorly_and_i_want_to_offer/
+Further reading:
+- https://www.reddit.com/r/LearnJapanese/comments/5hz16i/keigo_is_taught_pretty_poorly_and_i_want_to_offer/
+- https://japanese.stackexchange.com/questions/765/%ef%bd%9e%e3%81%86%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-keigo-%e3%81%84-adjectives (how to make any i-adjectives polite)
+- DoBJG pg. 36: Politeness and Formality
+- https://nihongonosensei.net/?p=20375 (cool table at the bottom)
 
 Japanese contractions and slangs
 ================================
+
+potential verb conjugation
+
+出られる -> 出れる
+寝られる -> 寝れる
 
 causative verb conjugation
 
@@ -670,16 +989,28 @@ e.g. わからない。 → わかんない。しゃべりなさい。 → し�
 
 という -> っていう -> って
 
+てな = というような or という
+
 More references:
-https://www.japanesewithanime.com/2019/07/contractions.html
-https://en.wikipedia.org/wiki/Contraction_(grammar)#Japanese
-https://en.wikipedia.org/wiki/Japanese_grammar#Euphonic_changes_(%E9%9F%B3%E4%BE%BF_onbin)
-http://www.muse.dti.ne.jp/~squat/tokyoben.htm
-http://www.muse.dti.ne.jp/~squat/
-https://community.wanikani.com/t/quick-contraction-reference/33461
-https://en.wiktionary.org/wiki/Category:Japanese_contractions
-https://japanese.stackexchange.com/questions/30995/%E3%81%A6%E3%81%8A%E3%81%8F-%E2%86%92-%E3%81%A8%E3%81%8F-in-other-contexts-similar-2-kana-to-1-kana-shortcuts
-https://www.sljfaq.org/afaq/colloquial-contractions.html
-https://i.stack.imgur.com/ffAw7.png
-https://japanese.stackexchange.com/questions/61958/why-is-the-%e3%81%a6-form-being-used-before-%e3%82%93
-https://japanese.stackexchange.com/questions/30995/%e3%81%a6%e3%81%8a%e3%81%8f-%e2%86%92-%e3%81%a8%e3%81%8f-in-other-contexts-similar-2-kana-to-1-kana-shortcuts
+- https://www.japanesewithanime.com/2019/07/contractions.html
+- https://en.wikipedia.org/wiki/Contraction_(grammar)#Japanese
+- https://en.wikipedia.org/wiki/Japanese_grammar#Euphonic_changes_(%E9%9F%B3%E4%BE%BF_onbin)
+- http://www.muse.dti.ne.jp/~squat/tokyoben.htm
+- http://www.muse.dti.ne.jp/~squat/
+- https://community.wanikani.com/t/quick-contraction-reference/33461
+- https://en.wiktionary.org/wiki/Category:Japanese_contractions
+- https://japanese.stackexchange.com/questions/30995/%E3%81%A6%E3%81%8A%E3%81%8F-%E2%86%92-%E3%81%A8%E3%81%8F-in-other-contexts-similar-2-kana-to-1-kana-shortcuts
+- https://www.sljfaq.org/afaq/colloquial-contractions.html
+- https://i.stack.imgur.com/ffAw7.png
+- https://japanese.stackexchange.com/questions/61958/why-is-the-%e3%81%a6-form-being-used-before-%e3%82%93
+- https://japanese.stackexchange.com/questions/30995/%e3%81%a6%e3%81%8a%e3%81%8f-%e2%86%92-%e3%81%a8%e3%81%8f-in-other-contexts-similar-2-kana-to-1-kana-shortcuts
+- http://headjockaa.g1.xrea.com/realjp/index.html (sentence enders)
+
+Tips for finding out meanings of unknown words or phrases
+=========================================================
+1. Use context
+2. Check dictionary, especially monolingual ones.
+3. Be wary that some words are used as prefixes or suffixes to other words. Some verbs are suffixed with helper verbs (e.g. 脅しまくってあげる, 調査し始める, 言われ慣れる, etc.), so be sure to look up the meaning of its helper verb.
+4. Some words are included in a fixed grammar pattern (e.g. ものと思う).
+5. If you don't understand the meaning of a group of words, it might be an idiom. Google it.
+6. Large kanji compounds can often be broken down to smaller words.
