@@ -491,6 +491,8 @@ no matter what
 ２）「たとえ～ようが・疑問詞～ようが 」の形をよく使う。
 ３） ❹ は慣用的表現。
 
+- https://japanese.stackexchange.com/questions/48292/
+
 ようと（も）
 
 ～ても
@@ -503,11 +505,18 @@ whether...or..., even; no matter how...
 ❹ 高かろうと安かろうと、この色が好きだから買います。
 ❺ 嵐だろうと地震だろうと、この家にいれば安全です。
 ❻ 忍の本質は変わらない...時代がどう変わろうともな。
+❼ 相手が誰だろうとオレはそいつの考えを尊重する。
+❽ ミズキ先生が何と言おうとダメです。(naruto ch1)
 
 接続: Vよう／イAいかろう／ナAだろう／Nだろう＋と（も）
 
 １）「～ようと（も）」の形で「～してもそれに関係なく」の意味を表す。後に「影響されない・自由だ・平気だ」という意味の文が続く。
 ２）「たとえ、～ようと（も）・疑問詞、～ようと（も）」の形をよく使う。
+
+More resources on だろうと:
+- https://japanese.stackexchange.com/questions/28615/
+- https://japanese.stackexchange.com/questions/11943/
+- https://nihongonosensei.net/?p=19882
 
 まい
 
@@ -724,7 +733,7 @@ Example: 空気が綺麗なせいか、空の青いが東京より軽く、爽�
 
 ところ:
 
-意味: (specific) place, spot, time, state, scene, part, etc.
+意味: (specific) place, spot, time, state, scene, part, aspect, characteristics, etc.
 
 文法:
 - plain noun ところ
@@ -757,13 +766,17 @@ Further reading:
 giverが(receiver)に~くれる (push -> download)
 
 - Requires receiver's POV (yourself or somebody close to you).
-- First person (receiver) can never be subjects in くれる sentences.
+- First person (receiver) can never* be subjects in くれる sentences.
 - Needs giver's initiative.
 - Vてくれる = somebody do action for me/us.
-- Used with favorable actions directed towards you.
+- Used with favourable actions directed towards you.
 - If an action is directed towards you does not end with てくれる, you are neutrally describing the action or the action is somewhat disfavorable to you.
-- Can be used sarcastically when someone does something unpleasant to you.
-- The opposite of くれる is V-masu-stem　+ やがる. It is used show that an action disfavorable to you.
+- Can be used sarcastically when someone does something unpleasant to you*.
+- The opposite of くれる is V-masu-stem　+ やがる. It is used to show that an action disfavourable to you.
+
+*くれる can be in situations when you want to give or do something to somebody of lower status (kinda like やる).
+
+Learn more here: https://dictionary.goo.ne.jp/word/くれる/
 
 もらう: make someone do a "service" to me/us
 
@@ -772,7 +785,7 @@ receiverがgiverに/から~もらう (user-initialized pull -> download)
 - The actor/receiver of もらう can be you or somebody else. You can talk about other people もらうing.
 - Needs user's initiative.
 - Vてもらう = "I got someone do something to me/us"
-- Is receiver-centered, unlike くれる which is giver-centered. Has no participating giver. Giver is not needed most of time.
+- Is receiver-centred, unlike くれる which is giver-centred. Has no participating giver. A giver is not needed most of the time.
 - Vてもらう is almost like [somebody]にVさせる (causative)
 
 TL;DR: Someone will くれる to you. You will もらう from someone. You will あげる to someone.
@@ -846,6 +859,8 @@ More resources:
 1. Colloquial topic marker, can mean something like は, というのは, のは, etc.
 2. Colloquial version of と (usually indicate emitted verb like 言う; if conditional; must not)
 3. Variant of ってば
+
+More: https://www.imabi.net/ttetattedatte.htm
 
 ってゆうか,っていうか,っつーか,っつうか,つーか,てゆーか,ってか,てか
 https://www.reddit.com/r/LearnJapanese/comments/8z3zzf/%E3%81%A6%E3%81%84%E3%81%86%E3%81%8B_usage/
@@ -991,6 +1006,18 @@ e.g. わからない。 → わかんない。しゃべりなさい。 → し�
 
 てな = というような or という
 
+てあげる -> たげる
+
+てやる -> たる
+
+よかねぇだろ -> よくはないだろう (「くは」は口語で「か」になる)
+
+言えば -> 言や (例: そう言や)
+
+喜んでやがるの -> 喜んでやがんの -> 喜んでやんの
+
+*if unsure, sometimes it's helpful to read aloud
+
 More references:
 - https://www.japanesewithanime.com/2019/07/contractions.html
 - https://en.wikipedia.org/wiki/Contraction_(grammar)#Japanese
@@ -1009,8 +1036,9 @@ More references:
 Tips for finding out meanings of unknown words or phrases
 =========================================================
 1. Use context
-2. Check dictionary, especially monolingual ones.
-3. Be wary that some words are used as prefixes or suffixes to other words. Some verbs are suffixed with helper verbs (e.g. 脅しまくってあげる, 調査し始める, 言われ慣れる, etc.), so be sure to look up the meaning of its helper verb.
-4. Some words are included in a fixed grammar pattern (e.g. ものと思う).
-5. If you don't understand the meaning of a group of words, it might be an idiom. Google it.
-6. Large kanji compounds can often be broken down to smaller words.
+2. Check dictionary, especially monolingual ones. For slangs, check slang dictionaries like japaslang.com. jisho.org, etc.
+3. Be wary that some words are used as prefixes or suffixes to other words.
+4. Some verbs are suffixed with helper verbs (e.g. 脅しまくってあげる, 調査し始める, 言われ慣れる, etc.), so be sure to look up the meaning of its helper verb. See this https://www.wasabi-jpn.com/japanese-grammar/japanese-compound-verbs/ for more info.
+5. Some words are included in a fixed grammar pattern (e.g. ものと思う).
+6. If you don't understand the meaning of a group of words, it might be an idiom. Google it.
+7. Large kanji compounds can often be broken down to smaller words.
