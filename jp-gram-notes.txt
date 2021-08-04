@@ -1044,3 +1044,4 @@ Tips for finding out meanings of unknown words or phrases
 5. Some words are included in a fixed grammar pattern (e.g. ものと思う).
 6. If you don't understand the meaning of a group of words, it might be an idiom. Google it.
 7. Large kanji compounds can often be broken down to smaller words.
+8. If a word doesn't exist in a dictionary, analyze its kanji. For example 暗算即解 can be understood as "mental arithmetic + quickly + solve."
