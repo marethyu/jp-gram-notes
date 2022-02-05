@@ -859,6 +859,7 @@ More resources:
 1. Colloquial topic marker, can mean something like は, というのは, のは, etc.
 2. Colloquial version of と (usually indicate emitted verb like 言う; if conditional; must not)
 3. Variant of ってば
+4. とは
 
 More: https://www.imabi.net/ttetattedatte.htm
 
