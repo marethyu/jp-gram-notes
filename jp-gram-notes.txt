@@ -145,7 +145,7 @@ XXXほど can be usually understood as "to the extend/degree of XXX"
 Remarks:
 1. 「～ば/～ほど」の文型は、後件が変化動詞。（例）増える、減る、変わる、～になる、～くる
 2. 最初の「～ば/～ほど」を省略してもよい。（例）漢字は書くほど、覚えやすくなる。; 駅に近くなるほど家賃が高くなる。
-3. Related to #2, the meaning of "the more you reach some extent/degree" can be expressed with just a single ほど. XXXほど can take [{V/Adjective い}informal nonpast]ほど or [なAdj]なほど or [なAdj]であるほど or [RelClause+Noun]ほど. (例: 大人しそうな女ほど裏で何やってるかわかんないよね)
+3. Related to #2, the meaning of "the more you reach some extent/degree" can be expressed with just a single ほど. XXXほど can take [{V/Adjective い}informal nonpast]ほど or [なAdj]なほど or [なAdj]であるほど or [RelClause+Noun]ほど. (例: 大人しそうな女ほど裏で何やってるかわかんないよね). Sometimes ほど is replaced by だけ (例: 安ければ安いだけ生活が助かる). Sometimes, a noun goes before ほど (例: 年収が高い男ほど浮気をするものなんです).
 4. 「～ば～ほど」の文法の接続は下記に
 
 > 動ば形＋動辞形＋ほど
@@ -158,6 +158,25 @@ More:
 - https://nihongonosensei.net/?p=9310
 - https://maggiesensei.com/2012/10/10/how-to-use-%E7%A8%8B-%E3%81%BB%E3%81%A9-hodo/
 - https://itazuraneko.neocities.org/grammar/dojg/dojgpages/intermediate%E3%81%BB%E3%81%A9.html
+
+分:
+
+明鏡国語辞典によると:
+> ②それに相当する部分・要素。また、相当する数量。分量。「自分の─を確保する」「超過─を払う」「三日─の薬」③そのような程度。「個人の立場で発言している─には問題がないが」「この─なら成功するだろう」 「…分（だけ）、…」の形で、その程度に応じて他の事柄の程度も進む意を表す。「期待していなかった─、余計に嬉しかった」「スピードを上げた─だけ疲れが出た」
+
+In 「A分(だけ)B」, B is changing in proportion to A (ie. as A goes up, B goes up, vice versa).
+
+「分」は「部分・分け前・本分・身分・程度・情況」などを表す多義語。
+
+例文:
+1.そしてこの街には、目の前を流れるこの窓の明かりのぶんだけ、人の生活があるのだ。(君の名は)
+2.健常者との付き合いが長い分、文章の読み書きはできてるそうですね。(https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12246674962)
+3.相手のモンスターの攻撃力を上回った分だけ相手のLPにダメージを与えます(Yugioh)
+
+参考にしろ:
+- https://japanese.stackexchange.com/questions/61583/
+- https://nihongonosensei.net/?p=20300
+- http://viethuong.web.fc2.com/MONDAI/381.html
 
 けど:
 
@@ -556,6 +575,8 @@ Attach to the end of verbs without conjugating anything.
 
 意味: Ａという状況だから当然Ｂする，Ｂするしかない，Ｂするべきだ
 
+*「Ａ以上はＢ」とほぼ同じ
+
 上で #1:
 
 動詞［辞書形］＋上で
@@ -572,7 +593,7 @@ Attach to the end of verbs without conjugating anything.
 意味:
 - まず〜をして、その後（あと）で〜する
 - まず〜をしてから〜する
-- 「Nの上で」の形で使われる場合は、「〜上で」が「〜する場合」か「まず〜てから〜する」という意味
+- 「Nの上で」の形で使われる場合は、「〜上で」が「〜する場合」か「まず〜てから〜する」という意味 (「で」を言わず「上」だけになることもある)
 
 *intuition for the first two meanings: a preparatory action is done first and main action is performed on the *top* of the prep. action
 *この文型は「Aた上でBする」の形で「Bをするためには、まずAをしなければならない」というような意味が含まれる
@@ -591,7 +612,9 @@ Sentence+上(に) (relative clause)
 例:
 このパソコンは便利な上に安い => このパソコンは便利し、更に安い (便利, 安い => いいこと)
 
-Useful: https://nihongonosato.com/jlpt/n2-grammar/n2-uede/
+Useful
+- https://nihongonosato.com/jlpt/n2-grammar/n2-uede/
+- https://nihongonosensei.net/?p=5943
 
 わけ Intuition:
 
@@ -618,7 +641,7 @@ XというわけでY - Y because X; X, so Y; Y is a conclusion from X
 
 "It is not the reasonality that... from..."
 
-Take sentence A and sentence B, which is a conclusion for A, then deny that B conclusion can't be drawn from A. In other words, deny there is *underlying logical link* between B and A, not necessary situation itself.
+Take sentence A and sentence B, which is a conclusion for A, then deny that B conclusion can't be drawn from A. In other words, deny there is *underlying logical link* between B and A, not necessary situation itself. It is often used for partial negation.
 
 Y=Xわけじゃない => Y doesn't have reasonality of entailing X.
 
@@ -854,12 +877,25 @@ More resources:
 - https://www.wasabi-jpn.com/japanese-grammar/negative-sequential-and-parallel-actions/
 - http://web.mit.edu/kakikotoba/renyoo-chuushi.html
 
+Node raising sentence examples:
+
+1. 祖父は僕が生まれるより前に祖母は今年の3月に亡くなりました。
+2. そして、町のほぼまん中には駅、ちょっとはなれたところにはかたまって役所、警察署、消防署、学校があります。
+3. 本企画が始まってから約４年、しょうの先生に「終末のハーレム」の元となる企画を持ちかけた時から数えるともう５年近くが経ちます。(「終末のハーレム」のあとがき1)
+4. 塀を挟んだ向こう側からは、線香と畳の匂い、それに生活臭や木の香りが混じりあった、あの懐かしい匂いがした。
+5. 生後間もない頃の私は純粋無垢の権化であり、光源氏の赤子時代もかくやと思われる愛らしさ、邪念のかけらもないその笑顔は郷里の山野を愛の光で満たしたと言われる。(四畳半神話大系)
+6. 県民集会では、日米両政府や関係省庁などへ県民の健康調査や基地周辺の土壌・河川の調査などの実施、また県には、水の安全確保に取り組むことなどを求めた決議案を採択しました。(https://www.qab.co.jp/news/20220411149782.html)
+7. 1回の額が平均賃金の1日分の半額、総額が一賃金支払期における賃金総額の10分の1以内で減給する。
+
+See: https://japanese.stackexchange.com/q/17743/41067
+
 って
 
 1. Colloquial topic marker, can mean something like は, というのは, のは, etc.
 2. Colloquial version of と (usually indicate emitted verb like 言う; if conditional; must not)
 3. Variant of ってば
 4. とは
+5. という
 
 More: https://www.imabi.net/ttetattedatte.htm
 
@@ -985,6 +1021,8 @@ e.g. さむい > さみい, まずい > まじい
 
 けぇっちまえ -> 帰っちまえ
 
+おけーり -> おかえり
+
 /r/ + vowel before a /n/ consonant can turn into ん in casual speech. (Do not confuse this ん as explanatory-の.)
 
 e.g. わからない。 → わかんない。しゃべりなさい。 → しゃべんなさい。見てるの。　→　見てんの。
@@ -1018,6 +1056,12 @@ e.g. わからない。 → わかんない。しゃべりなさい。 → し�
 喜んでやがるの -> 喜んでやがんの -> 喜んでやんの
 
 わ <-> あ (例: 相変わらず -> あいかあらず, 場合 -> ばわい)
+
+笑っていはしないだろう -> 笑ってやしねぇだろ
+
+には -> にゃ
+
+とは -> た (例: に越したことはない -> に越したこたァない)
 
 *if unsure, sometimes it's helpful to read aloud
 
